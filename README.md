@@ -1,2 +1,2 @@
-# abap-skilift-pricing-kata
-ABAP Ski Lift Pricing Kata
+# abap-lift-pass-pricing-kata
+ABAP Lift Pass Pricing Kata
